@@ -1,0 +1,8 @@
+Coins:
+
+BTC
+ETH
+LINK
+XRP
+SOL
+AVAX
